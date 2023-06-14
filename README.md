@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello there 👋 
 
-<!--
-**fengsdao3/fengsdao3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Vatana Chhorn, 
 
-Here are some ideas to get you started:
+A sophomore at Hangzhou Dianzi University, China, pursuing bachelor’s degree in Software Engineering. 👨🏻‍💻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
+
+### 💼  Things that I'm currently working on: 
+* Doing bachelor's degree in Software Engineering
+* Taking a Swift Online Course in Udemy, and looking forward to contribute to any iOS open source project. 
+* Learning editing photos by using Adobe Lighroom,  as well as drawing some vectors in Adobe Illustrator.
+* Inquiring more about UX/UI.  
+* Looking forward to take a Web Development Courses in future besides school curriculum. 
+* 🔜
